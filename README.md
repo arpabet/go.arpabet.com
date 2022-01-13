@@ -1,2 +1,2 @@
-# arpabet.github.io
+# go.arpabet.com
 Golang Repo Site
